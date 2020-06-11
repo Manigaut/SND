@@ -1,0 +1,12 @@
+cd Documents/Télécom/cours/ProjetC/git/SND
+dir
+notepad jambon.c
+git status
+git add jambon.c
+git commit -m "le gras c'est la vie"
+git push
+dir
+
+crer branche : git branch nom
+voir branches : git banch
+changer de branche : git checkout nomdelabranche
